@@ -1,0 +1,15 @@
+# PyTorch (CPU 기반 실행)
+torch
+
+# Transformers 라이브러리
+transformers
+
+# Model 최적화 및 실행 지원
+accelerate
+
+# Tokenizer 지원 (일부 모델에서 필요)
+sentencepiece
+
+# 수치 연산 라이브러리
+numpy
+scipy
